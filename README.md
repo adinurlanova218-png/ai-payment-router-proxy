@@ -45,4 +45,4 @@ REFUND_ENGINE   = 任务结束后台一键注销卡片，未消耗美金 0 延�
 绑卡与即刻熔断：填入平台账单结算，任务结束或测试完毕一键销卡，残额秒退母池，彻底断绝后续盗刷隐患。
 
 👉 立即直达 CoreGold 开卡控制台:https://app.coregold.io/signup?invite_code=ADvlj9b
-<img width="1983" height="793" alt="fec98f64d238d8e8158311c5e0098def" src="https://github.com/user-attachments/assets/3032d0a3-c89b-4190-a1b9-a9d7bac3f94f" />
+ 
